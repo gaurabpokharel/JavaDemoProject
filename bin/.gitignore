@@ -1,8 +1,4 @@
 # Ignore target folder except for certain subdirectories
-/target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
 
 # Other IDE specific files
 ### STS ###
